@@ -28,7 +28,64 @@ h1 {
     text-decoration: none;
     background-image: linear-gradient(to top right, skyblue, blue);
     padding: 20px 30px;
-    border-radius: 30px;
+    border-radius: 20px;
     color: white;
+}
 
+.section-title {
+    font-size: 40px;
+}
+
+.second-section {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.amount {
+    display: flex;
+}
+
+.tk {
+    padding: 35px;
+    font-size: 35px;
+    font-weight: 900;
+    margin-right: 20px;
+    background-color: rgb(241, 239, 235);
+    border-radius: 10px;
+}
+
+#selected {
+    padding: 35px;
+    font-size: 35px;
+    font-weight: 900;
+    margin-right: 20px;
+    background-color: rgb(207, 228, 245);
+    color: steelblue;
+    border: 3px solid steelblue;
+    border-radius: 10px;
+}
+
+.left {
+    margin-left: 200px;
+}
+
+.input-amount {
+    text-align: center;
+
+}
+
+hr {
+    width: 1000px;
+}
+
+.donate {
+    margin-left: 590px;
+    margin-top: 50px;
+}
+
+.third-section {
+    width: 700px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 320px;
 }
